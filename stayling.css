@@ -1,0 +1,30 @@
+body {
+    background-image:url(./havoshar.jpg) ;
+}
+h1{
+    color: green;
+    text-align: center;
+}
+ul {
+    text-align: center;
+    font-size: 20px;
+}ul li a {
+    color: green;
+    text-align: center;
+}
+img {
+  border: 2px solid black; 
+  border-radius: 20px; 
+}
+p {
+    color: red;
+    font-weight: 900;
+}
+h3 {
+    color: green;
+    text-align: center;
+}
+iframe {
+    display: block;
+    margin: auto;
+}
